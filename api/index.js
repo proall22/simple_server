@@ -5,11 +5,9 @@ import { fileURLToPath } from "url";
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Fix for __dirname in ES modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-// Serve static files from the public folder
 app.use(express.static(join(__dirname, "../public")));
 
 // Default Route: Redirect to /name
