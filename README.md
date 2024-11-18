@@ -17,7 +17,7 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the repository**:
 
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/proall22/simple_server)
    cd simple-web-server
 
 2. **then, install dependencies**
@@ -34,12 +34,13 @@ http://localhost:3000
 
 simple-web-server/
 │
+├── api/
+│ └── index.js # Express server
 ├── public/
-│ └── style.css # CSS file for styling the web pages
-│
-├── server.js # Main server file
-│
-└── README.md # Project documentation
+│ └── style.css # CSS file
+├── package.json # Defines scripts and dependencies
+├── vercel.json # custom build and routing
+└── .gitignore
 
 # Routes
 
