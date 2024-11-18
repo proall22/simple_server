@@ -90,7 +90,9 @@ Displays a motivational message about your dream.
 
   ## Contact I’m always open to discussing new projects, collaborations, or sharing knowledge. Feel free to reach out:
 
-  - **Email**: [email](misganategegn0@gmail.com)
-  - **LinkedIn**: [linkedin.com/in/misgana-bb46bb288](https://linkedin.com/in/misgana-bb46bb288)
-  - **GitHub**: [github.com/proall22](https://github.com/proall22)
-  - **Twitter**: [@Misgu2na](https://twitter.com/Misgu2na)
+[Check out the live version here!](https://simple-web-server-ebon.vercel.app/)
+
+- **Email**: [email](misganategegn0@gmail.com)
+- **LinkedIn**: [linkedin.com/in/misgana-bb46bb288](https://linkedin.com/in/misgana-bb46bb288)
+- **GitHub**: [github.com/proall22](https://github.com/proall22)
+- **Twitter**: [@Misgu2na](https://twitter.com/Misgu2na)
